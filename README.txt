@@ -1,3 +1,5 @@
+README and code upload in progreess. 
+
 There is 2 main projects in this repository and some other things I tried in the OtherProjects folder, (effectively archived).
 
 They are both in here because they both use Selenium Chrome Webdriver (https://www.selenium.dev/documentation/webdriver/) and it was easier to combine them then to reinstall the necessary jars for both.
